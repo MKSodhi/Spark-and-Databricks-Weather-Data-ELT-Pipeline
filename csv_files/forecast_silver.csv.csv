@@ -1,0 +1,15 @@
+name,temperature,windSpeed,shortForecast
+Today,86,5 to 10 mph,Sunny
+Tonight,62,5 to 10 mph,Mostly Clear
+Friday,85,5 to 10 mph,Sunny
+Friday Night,64,5 to 10 mph,Partly Cloudy then Slight Chance Rain Showers
+Saturday,80,5 mph,Chance Showers And Thunderstorms
+Saturday Night,64,5 mph,Slight Chance Showers And Thunderstorms then Partly Cloudy
+Sunday,85,5 to 10 mph,Mostly Sunny
+Sunday Night,65,5 mph,Partly Cloudy
+Monday,84,5 to 10 mph,Mostly Sunny
+Monday Night,65,5 to 10 mph,Partly Cloudy
+Tuesday,83,5 to 15 mph,Slight Chance Rain Showers
+Tuesday Night,66,10 mph,Slight Chance Showers And Thunderstorms
+Wednesday,80,10 to 15 mph,Chance Showers And Thunderstorms
+Wednesday Night,65,10 mph,Chance Showers And Thunderstorms
